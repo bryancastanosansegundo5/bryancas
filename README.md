@@ -67,6 +67,7 @@ Me gusta crear interfaces atractivas, optimizar el rendimiento y aprender tecnol
 | --- | --- |
 
 
+![](https://komarev.com/ghpvc/?username=bryancas&color=blue)
 
 ---
 
@@ -76,4 +77,3 @@ Me gusta crear interfaces atractivas, optimizar el rendimiento y aprender tecnol
 - ✉️ **bryan.sanse@gmail.com**
 
 <small><em>Siempre aprendiendo, siempre creando.</em></small>
-![](https://komarev.com/ghpvc/?username=bryancas&color=blue)
