@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Bryan Castaño
-<em><small>Desarrollador Full Stack – Java · Spring Boot · React · WordPress/PHP</small></em>
+<em><small>Desarrollador Full Stack – Java · Spring Boot · React · WordPress · PHP</small></em>
 
 Soy un **desarrollador full stack** con experiencia en **Java, Spring Boot, React, WordPress y PHP**, especializado en construir soluciones web completas y optimizadas.  
 Me gusta crear interfaces atractivas, optimizar el rendimiento y aprender tecnologías que me permitan aportar más valor en cada proyecto.
