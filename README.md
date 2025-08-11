@@ -63,8 +63,9 @@ Me gusta crear interfaces atractivas, optimizar el rendimiento y aprender tecnol
 ---
 
 ## 📈 Estadísticas
-| <a href="https://github.com/bryancas"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bryancas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stats"/></a> | <a href="https://github.com/bryancas"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancas&layout=compact&theme=buefy&hide_border=true" alt="Top Langs"/></a> |
+| <a href="https://github.com/bryancastanosansegundo5"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bryancastanosansegundo5&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&cache_seconds=7200&v=1" alt="Stats"/></a> | <a href="https://github.com/bryancastanosansegundo5"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancastanosansegundo5&layout=compact&theme=buefy&hide_border=true&langs_count=6&cache_seconds=7200&v=1" alt="Top Langs"/></a> |
 | --- | --- |
+
 
 
 ---
