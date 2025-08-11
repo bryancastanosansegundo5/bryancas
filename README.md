@@ -59,7 +59,7 @@ Me gusta crear interfaces atractivas, optimizar el rendimiento y aprender tecnol
 - Profundizando en **JUnit 5** para testing automatizado.  
 - Aprendiendo **Python** para ampliar capacidades backend.  
 - Mejorando **inglés técnico** con el objetivo de certificar nivel.
-<!--
+
 ---
 
 ## 📈 Estadísticas
@@ -68,7 +68,7 @@ Me gusta crear interfaces atractivas, optimizar el rendimiento y aprender tecnol
 
 
 ---
--->
+
 ## 📫 Contacto
 - 🌐 [bryancas.com](https://bryancas.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bryan-castaño-san-segundo)
