@@ -66,7 +66,6 @@ Me gusta crear interfaces atractivas, optimizar el rendimiento y aprender tecnol
 | <a href="https://github.com/bryancas"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bryancas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stats"/></a> | <a href="https://github.com/bryancas"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancas&layout=compact&theme=buefy&hide_border=true" alt="Top Langs"/></a> |
 | --- | --- |
 
-![](https://komarev.com/ghpvc/?username=bryancas&color=blue)
 
 ---
 
@@ -76,3 +75,4 @@ Me gusta crear interfaces atractivas, optimizar el rendimiento y aprender tecnol
 - ✉️ **bryan.sanse@gmail.com**
 
 <small><em>Siempre aprendiendo, siempre creando.</em></small>
+![](https://komarev.com/ghpvc/?username=bryancas&color=blue)
